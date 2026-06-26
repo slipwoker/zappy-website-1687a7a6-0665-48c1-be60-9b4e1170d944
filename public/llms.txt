@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://a-o-1687a7a6.zappy5.app
+https://example.com
 חנות הסקוושים והמוצרים התחושתיים הכי מספקים ברשת. צעצועי לחץ רכים וצבעוניים שמביאים רוגע, נוחות ואספנות כיפית לכל המשפחה. כנסו עכשיו וגלו את האושר בלחיצה!
 
 ### מוצרים וטקסטורות
-https://a-o-1687a7a6.zappy5.app/products-textures
+https://example.com/products-textures
 מחפשים את הסקווש המושלם? כאן תמצאו מבחר ענק של טקסטורות סוחפות – רכות, ג&#39;לטיניות, קראנצ&#39;יות ודביקות. כל מוצר הוא חוויה תחושתית חדשה לילדים ולאוהבי פידג&#39;טים. בואו לבחור את שלכם!
 
 ### אודות המותג
-https://a-o-1687a7a6.zappy5.app/about
+https://example.com/about
 המותג A&amp;O נולד מאהבה לרכות ולשלווה. אנחנו אוצרים עבורכם את מוצרי הלחץ הכי איכותיים ומעוצבים בעולם, כדי להפיץ שמחה, רוגע ואספנות צבעונית. הכירו את החזון הסחיט שלנו מקרוב!
 
 ### צור קשר
-https://a-o-1687a7a6.zappy5.app/contact
+https://example.com/contact
 יש לכם שאלה על מוצר, הזמנה מותאמת אישית או סתם בא לכם להגיד היי? אנחנו כאן בשבילכם! צרו קשר עם צוות A&amp;O וקבלו מענה מהיר, חם ומלא בחיוך. נשמח לשמוע מכם!
 
 ### תודה שפניתם אלינו
-https://a-o-1687a7a6.zappy5.app/thank-you
+https://example.com/thank-you
 A&O - סקוושים 🌀 - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://a-o-1687a7a6.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://a-o-1687a7a6.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://a-o-1687a7a6.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://a-o-1687a7a6.zappy5.app/contact
-- Endpoint: https://a-o-1687a7a6.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -77,6 +77,6 @@ E-commerce / Stress Relief Products
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://a-o-1687a7a6.zappy5.app/sitemap.xml
-- Robots: https://a-o-1687a7a6.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://a-o-1687a7a6.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
